@@ -15,7 +15,9 @@ function reducer(state, action) {
       break;
     case "REMOVE_FROM_BASKET":
       // logic for removing item from basket
-      return { state };
+      let newBasket = [...state.basket];
+
+      return { ...state };
       break;
     default:
       return state;
