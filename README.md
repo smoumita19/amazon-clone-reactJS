@@ -1,9 +1,10 @@
 <h1>Amazon Clone</h1>
 <hr>
 
-  1) In this project contains
   <pre>
-    <ul>
+   1) In this project contains
+   <hr>
+   <ul>
       <li>Login with firebase.</li>
       <li>Navigation with React Router.</li>
       <li>Add to cart functionality.</li>
@@ -12,18 +13,19 @@
     </ul>
   </pre>
   
-  2) Available pages
   <pre>
-    <ul>
+   2) Available pages
+   <hr>
+   <ul>
       <li>Login page</li>
       <li>Home page</li>
       <li>Checkout page</li>
     </ul>
   </pre>
   
-  3) This project has been deployed with firebase 
-    <pre>
-    
-      Hosting URL: https://clone-1aa97.web.app
+  <pre>
+   3) This project has been deployed with firebase 
+   <hr>
+   Hosting URL: https://clone-1aa97.web.app
       
-    </pre>
+  </pre>
