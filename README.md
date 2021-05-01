@@ -23,5 +23,7 @@
   
   3) This project has been deployed with firebase 
     <pre>
+    
       Hosting URL: https://clone-1aa97.web.app
+      
     </pre>
